@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>fuelscm</id>
+    <id>fuelscm.portable</id>
     <version>0.9.6</version>
-    <title>Fuel SCM</title>
+    <title>Fuel SCM (Portable)</title>
     <authors>karanikolas</authors>
     <owners>KidFashion</owners>
     <projectUrl>http://fuelscm.org//</projectUrl>
@@ -31,8 +31,5 @@
 - Misc: Minor GUI bug fixes and usability enhancements
 ]]></releaseNotes>
     <tags>fuel scm fossil tool</tags>
-    <dependencies>
-      <dependency id="fuelscm.portable" version="[0.9.6]" />
-    </dependencies>
   </metadata>
 </package>
