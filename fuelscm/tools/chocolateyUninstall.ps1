@@ -1,1 +1,1 @@
-﻿write-host -backgroundColor Red "NOTICE: Uninstall also fuelscm.portable package with command 'CUNINST fuelscm.portable' to complete uninstall"
+﻿write-host -foregroundColor Yellow "NOTICE: Uninstall also fuelscm.portable package with command 'CUNINST fuelscm.portable' to complete uninstall"
