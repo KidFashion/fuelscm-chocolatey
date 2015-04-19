@@ -12,11 +12,8 @@
 <licenseUrl>http://fuelscm.org/fossil/doc/trunk/doc/License.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Fuel is cross-platform GUI front-end to the excellent Fossil SCM tool written in Qt. Fuel runs on Windows, OSX as well as various flavors of Unix including Linux and FreeBSD.</description>
-<<<<<<< HEAD
-	<releaseNotes><![CDATA[Fuel V1.0.0 (2015-03-28)
-=======
-	<releaseNotes><![Fuel V1.0.0 (2015-03-28)
->>>>>>> b14708ae4b64fe659f7dac0273b493b45242c404
+    <releaseNotes><![CDATA[Fuel V1.0.0 (2015-03-28)
+
 * Feature: Long Operations can now be aborted by pressing the Escape key
 * Improvement: Better support for commit messages with international characters
 * Improvement: Fossil queries about CR/NL inconsistencies are now handled better
